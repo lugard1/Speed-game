@@ -53,7 +53,7 @@ For more information on the importance of a professional README for your reposit
   - [Usage](#usage)
   - [Run tests](#run-tests)
   - [Deployment](#deployment)
-- [👥 Authors](#authors)
+- [👥 Author](#author)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
@@ -63,19 +63,22 @@ For more information on the importance of a professional README for your reposit
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Speed Typing Game] <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**[Speed Typing Game]** is an API based application built with HTML, CSS, and JavaScript. it can be used for learning as it display random quotes and improve the rate of user's typing skill.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
 > Describe the tech stack and include only the relevant sections that apply to your project.
+- HTML5
+- CSS
+- JavaScript
 
-<details>
+<!-- <details>
   <summary>Client</summary>
   <ul>
     <li><a href="https://reactjs.org/">React.js</a></li>
@@ -94,7 +97,7 @@ For more information on the importance of a professional README for your reposit
   <ul>
     <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
   </ul>
-</details>
+</details> -->
 
 <!-- Features -->
 
@@ -102,9 +105,9 @@ For more information on the importance of a professional README for your reposit
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[Timer]**
+- **[Random Text Field]**
+- **[Input Text Field]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -142,6 +145,10 @@ Example command:
 
 Clone this repository to your desired folder:
 
+- git clone project's url
+- cd project's name
+- code .
+
 <!--
 Example commands:
 
@@ -154,6 +161,8 @@ Example commands:
 ### Install
 
 Install this project with:
+- Git Bash
+- VS Code
 
 <!--
 Example command:
@@ -167,6 +176,7 @@ Example command:
 ### Usage
 
 To run the project, execute the following command:
+
 
 <!--
 Example command:
@@ -204,21 +214,21 @@ Example:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Author <a name="author"></a>
 
-> Mention all of the collaborators of this project.
+<!-- > Mention all of the collaborators of this project. -->
 
-👤 **Author1**
+👤 **Author**
+
+- GitHub: [Lugard1](https://github.com/lugard1)
+- Twitter: [3kings](https://twitter.com/Dsn3kings)
+- Linkedin: [Lugard Agu](https://www.linkedin.com/in/lugard-agu-45bb05b6)
+
+<!-- 👤 **Author2**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle) -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -228,9 +238,9 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[Improve the feel]**
+<!-- - [ ] **[new_feature_2]**
+- [ ] **[new_feature_3]** -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -250,7 +260,7 @@ Feel free to check the [issues page](../../issues/).
 
 > Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project give it a ⭐️
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -258,14 +268,14 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
+<!-- > Give credit to everyone who inspired your codebase. -->
 
-I would like to thank...
+I would like to thank Web Dev Simplified for the insight
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
-
+<!-- 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
@@ -278,7 +288,7 @@ I would like to thank...
 
   - [Answer_2]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- LICENSE -->
 
